@@ -79,3 +79,9 @@ Included categories:
    ```bash
    git clone https://github.com/yourusername/your-repo-name.git
    cd your-repo-name
+   ```
+2. **Explore folders → click links → open READMEs.
+
+3. Pick a project or API you want to use.
+
+4. Start building!**
