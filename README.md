@@ -135,9 +135,8 @@ If you find this hub useful — please leave a ⭐!
 
 Made with ❤️ by **Arsh Ansari** — developer, learner, and lifelong coder.
 
-- 🧑‍💻 GitHub: https://github.com/ArshAnsari23122003  
-- 📝 Blog: https://yourblog.com  
-- 📬 Contact: arsh.ansari@example.com  
+- 🧑‍💻 GitHub: https://github.com/ArshAnsari23122003    
+- 📬 Contact: arsh.nitw@gmail.com  
 
 ---
 
