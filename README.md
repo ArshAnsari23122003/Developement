@@ -60,6 +60,24 @@ A massive collection of project ideas and tutorials across domains.
 
 📌 **Repository:**  
 👉 https://github.com/practical-tutorials/project-based-learning
+👉 https://github.com/The-Cool-Coders/Project-Ideas-And-Resources?utm_source=sp_auto_dm&utm_referrer=sp_auto_dm&fbclid=PAVERTVgQQO7pleHRuA2FlbQIxMABzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAacRF9s4Wvz5HPbUJiM2LsU9dcV216rHX8YkAYa0NpUU4K3OpgNaGPfvwz5RhA_aem_lBF8Obd8Jz3WI0KzNKfNCg
+
+Included categories:
+- 🧠 AI & ML Projects
+- 🌐 Web Development
+- 📱 Mobile Apps
+- 🛠 Tools & Utilities
+- 🎓 Beginner → Advanced Tutorials
+- 🧪 Hands-on project files for every skill level
+
+---
+
+## 📍 4. Tools for Hackathon
+
+A massive collection of AI based IDEs and tutorials.
+
+📌 **Repository:**  
+👉 https://github.com/Aadiii00/hackathon-tools?utm_source=sp_auto_dm&utm_referrer=sp_auto_dm&fbclid=PAT01DUAPjxKhleHRuA2FlbQIxMABzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAacz-9S75A-bmGeFLWH9oi0lqug-39iS9Tbwlk5Y_rei5YmIXZ6KmXV7yRYdCg_aem_iXOtpGE8JanTD-jJJr5UKw
 
 Included categories:
 - 🧠 AI & ML Projects
